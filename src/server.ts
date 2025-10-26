@@ -3,10 +3,6 @@ import router from "./router";
 
 const app = express();
 
-
-
-
-
 //Leer Datos Formulario
 app.use(express.json())
 

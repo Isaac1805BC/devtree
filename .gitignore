@@ -1,0 +1,9 @@
+# Ignorar dependencias
+node_modules/
+# Ignorar archivos de entorno (secretos)
+.env
+# Ignorar carpeta de build de TypeScript
+dist/
+build/
+# Ignorar logs de NPM
+npm-debug.log*
